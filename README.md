@@ -20,11 +20,11 @@ A video of the basic bot without the lambda function connected to it:
 
 A video of the Lambda function being tested with test events:
 
-![]()
+![](https://github.com/talibkateeb/Robo-Advisor-AWS/blob/main/Videos:Images/lambda-event-tests.gif)
 
 A video of the working bot with the lambda function implemented:
 
-![]()
+![](https://github.com/talibkateeb/Robo-Advisor-AWS/blob/main/Videos:Images/lambda-implemented-bot-test.gif)
 
 ## Technologies
 
