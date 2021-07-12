@@ -8,19 +8,19 @@ The goal of this project is to create an Amazon Lex bot with an Amazon Lambda fu
 
 The slots, sample utterances, and confirmation message:
 
-![]()
+![](https://github.com/talibkateeb/Robo-Advisor-AWS/blob/main/Videos:Images/sample-utterances.png)
 
-![]()
+![](https://github.com/talibkateeb/Robo-Advisor-AWS/blob/main/Videos:Images/slots.png)
 
 
 A video of the basic bot without the lambda function connected to it:
 
-![]()
+![](https://github.com/talibkateeb/Robo-Advisor-AWS/blob/main/Videos:Images/basic-bot-test-gif.gif)
 
 
 A video of the Lambda function being tested with test events:
 
-![]()
+![](https://github.com/talibkateeb/Robo-Advisor-AWS/blob/main/Videos:Images/lambda-test-events-gif.gif)
 
 A video of the working bot with the lambda function implemented:
 
