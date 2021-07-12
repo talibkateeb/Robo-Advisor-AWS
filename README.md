@@ -20,7 +20,7 @@ A video of the basic bot without the lambda function connected to it:
 
 A video of the Lambda function being tested with test events:
 
-![](https://github.com/talibkateeb/Robo-Advisor-AWS/blob/main/Videos:Images/lambda-test-events-gif.gif)
+![]()
 
 A video of the working bot with the lambda function implemented:
 
@@ -30,9 +30,9 @@ A video of the working bot with the lambda function implemented:
 
 This application runs AWS using:
 
-* [Amazon Lex](https://aws.amazon.com/lex/) - A tool for creating conversational AI chatbots.
+* [AWS Lex](https://aws.amazon.com/lex/) - A tool for creating conversational AI chatbots.
 
-* [Amazon Lambda](https://aws.amazon.com/lambda/)) - A tool for running code on the cloud. 
+* [AWS Lambda](https://aws.amazon.com/lambda/) - A tool for running code on the cloud. 
 
 ---
 
